@@ -1,0 +1,53 @@
+div {
+    font-weight: bold; 
+    font-size:large;
+    margin: 5px; 
+    margin-left: 0px;
+}
+
+select {
+    width: 200px;
+}
+
+.new_td {
+    border:0;
+}
+
+.header {
+    width: 300px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.column {
+    width: 120px;
+    text-align: center;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid rgb(172, 172, 172);
+}
+
+tr {
+    height: 50px;
+}
+
+.new_tr {
+    background-color: rgb(216, 216, 216);
+}
+
+
+.money {
+    font-size: small;
+    border: 0;
+    vertical-align: top;
+}
+
+.new_row {
+    height: 25;
+    vertical-align: bottom;
+}
